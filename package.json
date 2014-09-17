@@ -2,7 +2,7 @@
   "name": "SayHi",
   "bin": {
     "SayHi": "bin/SayHi.sh"
-  }
+  },
   "scripts": {
     "test": "echo \"No tests available\" && exit 1"
   },
