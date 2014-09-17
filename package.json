@@ -1,0 +1,12 @@
+{
+  "name": "SayHi",
+  "bin": {
+    "SayHi": "bin/SayHi.sh"
+  }
+  "scripts": {
+    "test": "echo \"No tests available\" && exit 1"
+  },
+  "version": "0.0.0",
+  "author": "Daniel Cohen",
+  "license": "Copyright (C) Mobiquity Inc - All Rights Reserved \nUnauthorized copying of this file, via any medium is strictly prohibited\nProprietary and confidential"
+}
